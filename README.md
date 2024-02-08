@@ -12,3 +12,18 @@ I'm Sajjad, Backend developer from Mashhad, Iran.</b><br/><br/>
     <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,rabbitmq,redis,docker,bash,postman,linux,git,github,gitlab,vscode,flutter,androidstudio,html,css,js,sklearn" />
   </a>
 </p>
+
+
+## Github status
+
+<p>
+  <div>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img  width=400 src="https://github-readme-stats.vercel.app/api?username=ali-oliaee&show_icons=true&theme=radical&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img  width=400 src="https://github-readme-streak-stats.herokuapp.com?user=ali-oliaee&theme=radical&hide_border=true" />
+    </a>
+  </div>
+  <br>
+</p>
