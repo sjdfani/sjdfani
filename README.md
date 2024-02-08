@@ -7,6 +7,8 @@ I'm Sajjad, Backend developer from Mashhad, Iran.</b><br/><br/>
 
 ## 👨‍💻 My Tech Stack
 
- [![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,rabbitmq,redis,docker,bash,postman,linux,git,github,gitlab,vscode,flutter,androidstudio,html,css,js,sklearn)](https://skillicons.dev)
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,rabbitmq,redis,docker,bash,postman,linux,git,github,gitlab,vscode,flutter,androidstudio,html,css,js,sklearn" />
+  </a>
+</p>
