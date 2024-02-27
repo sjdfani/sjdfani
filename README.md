@@ -24,7 +24,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img  width=400 src="https://github-readme-streak-stats.herokuapp.com?user=sjdfani&theme=prussian&hide_border=true" />
     </a>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sjdfani&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+    <img width=400, src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjdfani&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
   </div>
   <br>
 </p>
