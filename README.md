@@ -17,14 +17,15 @@
 ## Github status
 
 <p>
-  <div>
+  <div style="margin:0 auto;text-align:center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img  width=400 src="https://github-readme-stats.vercel.app/api?username=sjdfani&show_icons=true&theme=prussian&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img  width=400 src="https://github-readme-streak-stats.herokuapp.com?user=sjdfani&theme=prussian&hide_border=true" />
     </a>
-    <img width=200, src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjdfani&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    
   </div>
+  <img width=200, src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjdfani&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
   <br>
 </p>
